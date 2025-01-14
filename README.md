@@ -5,7 +5,7 @@ Welcome to **WhiteSpace** – a digital space designed for creative minds to dra
 ---
 
 ### **How It Works**
-- **Drawing & Writing**: Draw and write freely on the canvas using the toolbar that includes various drawing options like the pen, eraser, and highlighter. Just select a tool and start creating!
+- **Drawing & Writing**:  Draw and write freely on the canvas using the toolbar that includes various drawing options like the pen, eraser, and highlighter. Just select a tool and start creating!
 - **Canvas Navigation:** Move around your workspace with zoom-in, zoom-out, and pan functionality to view details or work on large projects.
 - **Save & Export:** Once your work is complete, easily save it as a PNG or JPEG image to share or revisit later.
 - **Tools & Customization:** You can personalize your drawing experience by choosing different pen sizes and colors.
