@@ -25,3 +25,4 @@ Welcome to **WhiteSpace** – a digital space designed for creative minds to dra
 - **Cloud Sync**: Save and sync your boards on the cloud for easy access from multiple devices.
 - **Advanced Tools**: Add features such as text boxes, geometric shape recognition, and more drawing effects.
 - **Gesture Recognition**: Integrate hand gestures for intuitive control without the need for a mouse or keyboard.
+ 
