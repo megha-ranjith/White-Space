@@ -14,7 +14,7 @@ drawing_canvas = np.ones((canvas_height, canvas_width, 3), dtype=np.uint8) * 255
 # Drawing settings
 drawing_color = (0, 0, 0)  # Black color for drawing
 line_thickness = 5  # Thickness of the drawing lines
-
+ 
 # Variables to track state
 is_drawing = False
 last_index_position = None
